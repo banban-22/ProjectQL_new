@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useMutation, useQuery } from '@apollo/client';
 import { FaList } from 'react-icons/fa';
 import Spinner from '../components/Spinner';
